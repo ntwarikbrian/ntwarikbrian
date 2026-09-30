@@ -1,6 +1,6 @@
 ![Banner](assets/banner.jpg)
 
-Hey, I'm **Brian**.
+Yoo, I am **NTWARI K. Brian** 👋
 
 I build the backends — the part nobody sees until it breaks.
 
