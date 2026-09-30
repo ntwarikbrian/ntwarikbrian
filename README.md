@@ -1,10 +1,12 @@
 ![Banner](assets/banner.jpg)
 
-# NTWARI K.Brian
+Hey, I'm **Brian**.
 
-Deep learner in architecture design • Backend engineer • Kigali, Rwanda
+I build the backends — the part nobody sees until it breaks.
 
-## Stack
+Backend engineer based in Kigali, Rwanda. Currently deep in architecture design, distributed systems, and shipping services that don't fall over.
+
+### What I'm working with
 
 **Languages**
 
@@ -34,3 +36,9 @@ Deep learner in architecture design • Backend engineer • Kigali, Rwanda
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Currently
+
+- Designing APIs and services that hold up past the first hundred users
+- Getting sharper at system design, one trade-off at a time
+- Exploring AI agent architectures and retrieval pipelines
