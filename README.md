@@ -2,7 +2,7 @@
 
 Yoo, I am **NTWARI K. Brian** 👋
 
-I build the backends, the part nobody sees until it breaks.
+I build backends, AI models, and user experiences people actually enjoy.
 
 Backend engineer based in Kigali, Rwanda. Currently deep in architecture design, distributed systems, and shipping services that don't fall over.
 
